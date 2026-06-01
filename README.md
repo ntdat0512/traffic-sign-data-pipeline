@@ -1,4 +1,4 @@
-# Traffic Sign Data Pipeline & Detection using YOLOv8
+# Traffic Sign Data Pipeline & Detection 
 
 ## Overview
 
